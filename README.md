@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubCoder a student at Minho University
 - 👀 I’m interested in programming and learning different kinds of things
-- 🌱 I’m currently learning C and Haskell
+- 🌱 I’m currently learning C, Haskell, Python, C++, JAVA, C#, SQL, Visual Basic, VB.Net, PHP, JavaScript
 - 📫 How to reach me at still unavailable 
 
 <!---
